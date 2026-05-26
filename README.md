@@ -397,7 +397,6 @@ app/Services/
 | MySQL | 8.0+ | Relational Database |
 | Redis | - | Caching & Queue |
 | Laravel Sanctum | - | API Authentication |
-| Spatie Permissions | - | Role Management |
 
 ---
 
@@ -405,9 +404,9 @@ app/Services/
 
 | Role | Email | Password |
 |------|-------|----------|
-| Admin | test@example.com | password |
-| Writer | writer@example.com | password |
-| Customer | customer@example.com | password |
+| Admin | Admin@example.com | password123 |
+| Writer | writer@example.com | password123 |
+| Reader | lowe.elta@example.com | password |
 
 ---
 
